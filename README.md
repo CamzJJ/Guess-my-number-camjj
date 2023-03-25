@@ -48,13 +48,9 @@ Improve my use of breakpoints for better responsive designs and start using a mo
 
 ### Useful resources
 
-- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - This course was a useful resource for creating responsive designs.
-
-This course is for you if...
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - This course is for you if...
 
 ... you want to gain a true and deep understanding of JavaScript
-
-... you have been trying to learn JavaScript but: 1/ still don't really understand JavaScript, or 2/ still don't feel confident to code real apps
 
 ... you are interested in using a library/framework like React, Angular, Vue, or Node.js in the future
 
