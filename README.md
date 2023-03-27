@@ -1,4 +1,4 @@
-# Jonas Schmedtmann's javascript course - Guess my number
+# Guess my number
 
 ## Table of contents
 
@@ -36,6 +36,7 @@ Users should be able to:
 ## My process
 - select all the elements to be manipulated in the DOM
 - setting up click events
+- implementing game logic
 -
 
 ### Built with
