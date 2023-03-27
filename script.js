@@ -6,6 +6,7 @@ const highscoresCounter = document.querySelector(`.highscore`);
 const secretNumber = document.querySelector(`.number`);
 const guessInput = document.querySelector(`.guess`);
 const checkButton = document.querySelector(`.check`);
+const againButton = document.querySelector(`.again`);
 
 let score = 20;
 
@@ -13,6 +14,16 @@ const randomNumber = Math.trunc(Math.random() * 20) + 1;
 
 console.log(randomNumber);
 console.log(Number(scoreCounter.textContent));
+
+const gameReset = function () {
+  secretNumber.textContent = `?`;
+  score = 20;
+  randomNumber;
+  document.querySelector(`body`).style.backgroundColor = `#222`;
+  document.querySelector(`.number`).style.width = `15rem`;
+  message.textContent = `Start guessing...`;
+  guessInput.value = ``;
+};
 
 const checkInputValue = function () {
   const guess = Number(guessInput.value);
@@ -42,3 +53,4 @@ const checkInputValue = function () {
 };
 
 checkButton.addEventListener(`click`, checkInputValue);
+againButton.addEventListener(`click`, gameReset);
