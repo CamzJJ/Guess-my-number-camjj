@@ -16,6 +16,7 @@
 ## Overview
  The goal of the game is to guess a secret number between 1 and 20 with the highest score possible.
  For every guess you get wrong you lose 1 point.
+
 ### The challenge
 
 Users should be able to:
@@ -33,7 +34,8 @@ Users should be able to:
 - [Guess my number site URL](https://camjj-guess-my-number.netlify.app/)
 
 ## My process
-
+- select all the elements to be manipulated in the DOM
+-
 
 ### Built with
 - javascript
