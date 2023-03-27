@@ -35,6 +35,7 @@ Users should be able to:
 
 ## My process
 - select all the elements to be manipulated in the DOM
+- setting up click events
 -
 
 ### Built with
