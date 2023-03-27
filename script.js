@@ -11,4 +11,6 @@ const checkInputValue = function(){
  Number(guess.value)
 }
 
+
+
 checkButton.addEventListener(`click`, checkInputValue)
