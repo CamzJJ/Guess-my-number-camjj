@@ -37,7 +37,7 @@ Users should be able to:
 - select all the elements to be manipulated in the DOM
 - setting up click events
 - implementing game logic
--
+- refactoring
 
 ### Built with
 - javascript
