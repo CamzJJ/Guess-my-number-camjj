@@ -69,4 +69,4 @@ Improve my use of breakpoints for better responsive designs and start using a mo
 
 ## Acknowledgments
 
-This project was designed by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
+Designed by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
