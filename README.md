@@ -48,7 +48,7 @@ Users should be able to:
 Within this project I learnt what's the DOM and DOM manipulation, selecting and manipulating elements and css styles, handling click events, implementing game logic and high scores, and refactoring code using the DRY principal.
 
 ### Continued development
-Improve my use of breakpoints for better responsive designs and start using a mobile first workflow. 
+Improve my use of DOM manipulation 
 
 ### Useful resources
 
